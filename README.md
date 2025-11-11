@@ -1,4 +1,9 @@
- # @https://github.com/DavidDinkevich/Story2Board
+ # Story2Board: A Training‑Free Approach for Expressive Storyboard Generation
+## 原项目详见
+**Project page:** https://daviddinkevich.github.io/Story2Board  
+**Paper (arXiv):** https://arxiv.org/abs/2508.09983
+**Code:** [this repo](https://github.com/DavidDinkevich/Story2Board)
+
 
 # Qwen-Image Pipelines（含 Story2Board 扩展）
 
