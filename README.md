@@ -1,4 +1,6 @@
- # Story2Board: A Training‑Free Approach for Expressive Storyboard Generation
+ # Story2Board：一种免训练的故事板生成方法，在保持角色身份一致性的同时，兼顾电影式构图多样性
+ <img width="934" height="607" alt="image" src="https://github.com/user-attachments/assets/38145af2-7d56-4aaa-bd2b-c7f5a46716ce" />
+
 ## 原项目详见
 **Project page:** https://daviddinkevich.github.io/Story2Board  
 **Paper (arXiv):** https://arxiv.org/abs/2508.09983    
